@@ -1,1 +1,18 @@
-md for test.
+---
+layout: layout
+title: title
+date: date
+comments: whether comment
+photos: photos
+tags: 
+  - one
+  - two
+categories: c
+description: description about article
+---
+
+summary
+
+<!-- more -->
+
+end
