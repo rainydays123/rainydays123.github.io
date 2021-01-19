@@ -13,6 +13,4 @@ description: description about article
 
 summary
 
-<!-- more -->
-
 end
